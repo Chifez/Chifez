@@ -2,7 +2,7 @@
 
 front end web developer based in Lagos Nigeria
 
-I am proficient in Html,css and JavaScript and react.js with 2 years of experience
+I am proficient in Html,css, tailwind CSS, JavaScript and react.js with 2 years of experience 
 
 I still have a lot to learn,but kindly reach out to me for your front end jobs 
 
