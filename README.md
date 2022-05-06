@@ -27,7 +27,7 @@ or if you find me worthy of your mentorship
 
 ## How to reach me
 
-You find me on 
+You can find me on 
 
 - **Twitter** **@chifez4u**
 - linkedin at**[linkedin](https://www.linkedin.com/in/ifeanyi-emmanuel-nwosu-81a027147)**
