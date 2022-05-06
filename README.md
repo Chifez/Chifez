@@ -30,7 +30,7 @@ or if you find me worthy of your mentorship
 You can find me on 
 
 - **Twitter** **@chifez4u**
-- linkedin at**[linkedin](https://www.linkedin.com/in/ifeanyi-emmanuel-nwosu-81a027147)**
+- linkedin at **[linkedin](https://www.linkedin.com/in/ifeanyi-emmanuel-nwosu-81a027147)**
 - you can also mail me **[gmail](chifez1@gmail.com)**
 - and if ever you want to play a game of chess you can meet me on **[lichess](https://lichess.org/@/chifez4u)** or search for @chifez4u on either chess.com and lichess
 
