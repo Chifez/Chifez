@@ -1,16 +1,39 @@
-- 👋 Hi, I'm Emmanuel fondly called chifez,I am a self taught
+# About me
 
-front end web developer based in Lagos Nigeria
+👋 Hi, I'm Emmanuel fondly called **chifez**,I am a self taught front end web developer based in Lagos Nigeria,i enjoy creating interactive webpages
+that are user friendly and perform optimally,in simpler terms developing creative websites are my forte. i enjoy playing chess as this helps with my decision making and time management strategies 
+:EMOJICODE:
+## skill set
 
-I am proficient in Html,css, tailwind CSS, JavaScript and react.js with 2 years of experience 
 
-I still have a lot to learn,but kindly reach out to me for your front end jobs 
+I have got a couple of skillset i am very proficeint with,they include
 
+- Html
+- css and scss
+- tailwind CSS
+- JavaScript
+- react.js
+- git and github
+
+I design a bit too using 
+
+- figma
+- photoshop
+
+## experience level
+
+The journey started in 2020,it's been a rocky journey and I still have a lot to learn,but kindly reach out to me for your front end jobs 
 or if you find me worthy of your mentorship
 
-My email address is chifez1@gmail.com
+## How to reach me
 
-find me on Twitter @chifez4u
+You find me on 
+
+- **Twitter** **@chifez4u**
+- linkedin at**[linkedin](https://www.linkedin.com/in/ifeanyi-emmanuel-nwosu-81a027147)**
+- you can also mail me **[gmail](chifez1@gmail.com)**
+- and if ever you want to play a game of chess you can meet me on **[lichess](https://lichess.org/@/chifez4u)** or search for @chifez4u on either chess.com and lichess
+
 
 
 <!---
