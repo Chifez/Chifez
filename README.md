@@ -1,12 +1,12 @@
 # About me
 
 👋 Hi, I'm Emmanuel fondly called **chifez**,I am a self taught front end web developer based in Lagos Nigeria,i enjoy creating interactive webpages
-that are user friendly and perform optimally,in simpler terms developing creative websites are my forte. i enjoy playing chess as this helps with my decision making and time management strategies 
+that are user friendly and perform optimally,in simpler terms developing creative websites are my forte.I enjoy playing chess as this helps with my decision making and time management strategies 
 :EMOJICODE:
 ## skill set
 
 
-I have got a couple of skillset i am very proficeint with,they include
+I have got a couple of skillset i am very proficient with,they include
 
 - Html
 - css and scss
@@ -22,7 +22,7 @@ I design a bit too using
 
 ## experience level
 
-The journey started in 2020,it's been a rocky journey and I still have a lot to learn,but kindly reach out to me for your front end jobs 
+The journey started in 2020,it's been a rocky journey and i still have a lot to learn,but kindly reach out to me for your front end jobs 
 or if you find me worthy of your mentorship
 
 ## How to reach me
