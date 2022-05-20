@@ -1,6 +1,6 @@
 # About me
 
-👋 Hi, I'm Emmanuel fondly called **chifez**,I am a front end web developer based in Lagos, Nigeria.
+👋 Hi, I'm Emmanuel,I am a front end web developer based in Lagos, Nigeria.
 I enjoy creating interactive webpages that are user friendly and perform optimally.
 In simpler terms developing creative websites are my forte.I enjoy playing chess as this helps with my decision making and time management strategies 
 :EMOJICODE:
