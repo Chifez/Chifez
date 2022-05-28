@@ -49,7 +49,7 @@ You can find me on
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chifez&theme=blue-green)](https://github.com/Chifez/github-readme-stats) -->
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chifez&theme=blue-green)](https://github.com/Chifez/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Chifez&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Chifez&theme=blue-green)](https://github.com/Chifez/github-readme-streak-stats)
 
 
 <!---
