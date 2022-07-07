@@ -46,7 +46,7 @@ You can find me on
 <!-- - and if ever you want to play a game of chess you can meet me on **[lichess](https://lichess.org/@/chifez4u)** or search for @chifez4u on either chess.com and lichess -->
 
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chifez&theme=blue-green)](https://github.com/Chifez/github-readme-stats) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chifez&theme=blue-green)](https://github.com/Chifez/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chifez&theme=blue-green)](https://github.com/DenverCoder1/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Chifez&theme=blue-green)](https://github.com/DenverCoder1/github-readme-stats)
