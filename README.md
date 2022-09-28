@@ -25,10 +25,10 @@ I design a bit too using
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 The tools i use are 
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
+- [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+- [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+- [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+- [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
 
 
 
