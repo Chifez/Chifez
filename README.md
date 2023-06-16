@@ -36,8 +36,6 @@ The tools i use are
 - [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 - [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 - [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-- [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 
 
 ## experience level
