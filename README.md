@@ -46,7 +46,7 @@ a major focus on frontend.I have collaborated on a couple of projects as a front
 
 ## How to reach me
 
-if You can find me on 
+You can connect with me on my social media pages
 
 [![twwiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chifez4u)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nwosuifeanyiemmanuel/)
