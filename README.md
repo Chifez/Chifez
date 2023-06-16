@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Emmanuel,I am a front end developer based in Lagos, Nigeria.
 I enjoy creating interactive and user centric application that are user friendly and perform optimally.
-In simpler terms developing products that solve problems are my forte.on the side i enjoy playing chess as this helps with my decision making and time management strategies 
+In simpler terms developing products that solve problems are my forte.On the side i enjoy playing chess as this helps with my decision making and time management strategies 
 
 ## skill set
 
@@ -62,6 +62,7 @@ if You can find me on
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Chifez&theme=blue-green)](https://github.com/DenverCoder1/github-readme-stats)
 
 ![stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Chifez}1212%2Fhit-counter)
+<!-- ![commit](https://custom-icon-badges.demolab.com/github/last-commit/Chifez/custom-icon-badges?logo=history&logoColor=white) -->
 <!---
 Chifez/Chifez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
