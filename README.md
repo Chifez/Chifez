@@ -40,7 +40,7 @@ The tools i use are
 
 ## experience level
 
-I am a frontend developer with 2 years of experience with approximately 1+ year of professional working experience. I am currently transitioning into mobile
+I am a frontend developer with 3+ years of experience. I am currently transitioning into mobile
 development using react native,a cross platform mobile development framework. i have worked at various capacities with both frontend and backend language with
 a major focus on frontend.I have collaborated on a couple of projects as a frontend engineer with teams of developers and designers and i have some personal projects of my own (most are unfinished 😂)
 
