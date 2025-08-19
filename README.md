@@ -37,10 +37,9 @@ I’m also curious about how **real-time communication** and **AI** can make the
 
 ### 📫  How to reach me
 - **Email:** [nwosuifeanyiemmanuel01@gmail.com](mailto:nwosuifeanyiemmanuel01@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ifeanyi-emmanuel](#)  
-- **Portfolio:** [my portfolio](#)  
-- **GitHub:** [github.com/yourusername](#)  
-- **ProductHunt:** [My ProductHunt](#)  
+- **LinkedIn:** [linkedin.com/in/ifeanyi-emmanuel](https://www.linkedin.com/in/nwosuifeanyiemmanuel)  
+- **Portfolio:** [my portfolio](https://emcodes.xyz)
+- **Hackkerank:** [Hackerrank](https://www.hackerrank.com/profile/chifez1)  
 
 ---
 
