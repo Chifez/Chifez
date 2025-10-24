@@ -15,7 +15,7 @@ I’m also curious about how **real-time communication** and **AI** can make the
 ---
 
 ### 🚀 Some cool things I’ve built
-- **[MeetLite](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools.  
+- **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools.  
 - **[QuizemeGPT](http://assign-gpt.vercel.app)** → AI-powered quiz generator that creates quizzes on any topic instantly.  
 - **[Convertly](https://stt-app-roan.vercel.app)** → Speech-to-text app that transcribes in real time and lets you export results.  
 
