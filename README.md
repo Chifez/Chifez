@@ -40,7 +40,7 @@ I’m also curious about how **real-time communication** and **AI** can make the
 - **Email:** [nwosuifeanyiemmanuel01@gmail.com](mailto:nwosuifeanyiemmanuel01@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/ifeanyi-emmanuel](https://www.linkedin.com/in/nwosuifeanyiemmanuel)
 - **Twitter** [@chifez4u](https://www.twitter.com/chifez4u) 
-- **Portfolio:** [my portfolio](https://emcodes.xyz)
+- **Portfolio:** [My Portfolio](https://emcodes.xyz)
 - **Hackkerank:** [Hackerrank](https://www.hackerrank.com/profile/chifez1)  
 
 ---
