@@ -2,11 +2,11 @@
 
 I’m a **Software engineer** who loves building clean, fast, and interactive web apps. I’ve been working with **React, Next.js, and Svelte** for 4+ years, and I enjoy turning ideas into smooth, responsive UIs that people actually enjoy using.  
 
-I’m also curious about how **real-time communication** and **AI** can make the web more collaborative, so a lot of my projects mix those two worlds.  
+I’m also curious about how **real-time communication** and **AI** can make the web more collaborative, so a lot of my projects i am currently working on mix those two worlds.  
 
 ---
 
-### 🔧 What I use most
+### What I use most
 - **Frontend:** React, Next.js, Svelte, Tailwind, Redux, Zustand  
 - **Backend & DBs:** Node.js, Express, Supabase, PostgreSQL, MongoDB, Redis  
 - **Other stuff:** TypeScript, Docker, Git, WebRTC, Socket.IO  
@@ -14,21 +14,22 @@ I’m also curious about how **real-time communication** and **AI** can make the
 
 ---
 
-### 🚀 Some cool things I’ve built
-- **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools.  
+### Some cool things I’ve built
+- **[Emcodes](https://emcodes.xyz)]**  → A webpage that is a reflection and description of my personality in 0s and 1s; simple, smooth and efficient. 
+- **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools.
 - **[QuizemeGPT](http://assign-gpt.vercel.app)** → AI-powered quiz generator that creates quizzes on any topic instantly.  
 - **[Convertly](https://stt-app-roan.vercel.app)** → Speech-to-text app that transcribes in real time and lets you export results.  
 
 ---
 
-### 💼 A bit of experience
+### A bit of experience
 - **Frontend Engineer @ ClassroomIO** – Building open-source EdTech tools, AI grading systems, and video upload optimizations.  
 - **Frontend Developer @ Uniflow** – Migrated platform from React to Next.js, improving performance & SEO by 94%.  
 - **Frontend Developer @ Schulltech** – Developed an academic library-based MVP and reusable UI system, cutting dev time by 40%.  
 
 ---
 
-### 🌱 Right now
+### Right now
 - Working on open-source EdTech tools at **ClassroomIO**.  
 - Learning more about **AI integrations** and building better developer tools.  
 - Exploring how **real-time apps** (WebRTC, Socket.IO) can scale.  
