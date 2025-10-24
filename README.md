@@ -1,4 +1,4 @@
-## 👋 Hey, I’m Ifeanyi  
+## 👋 Hey, I’m Emmanuel  
 
 I’m a **Software engineer** who loves building clean, fast, and interactive web apps. I’ve been working with **React, Next.js, and Svelte** for 4+ years, and I enjoy turning ideas into smooth, responsive UIs that people actually enjoy using.  
 
@@ -7,9 +7,9 @@ I’m also curious about how **real-time communication** and **AI** can make the
 ---
 
 ### What I use most
-- **Frontend:** React, Next.js, Svelte, Tailwind, Redux, Zustand  
+- **Frontend:** React.js, Next.js, Svelte, Tailwind, Redux, Zustand  
 - **Backend & DBs:** Node.js, Express, Supabase, PostgreSQL, MongoDB, Redis  
-- **Other stuff:** TypeScript, Docker, Git, WebRTC, Socket.IO  
+- **Other stuff:** Docker, Git, WebRTC, Socket.IO  
 - **Testing & QA:** Vitest, Playwright  
 
 ---
