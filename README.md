@@ -15,15 +15,14 @@ I’m also curious about how **real-time communication** and **AI** can make the
 ---
 
 ### Some cool things I’ve built
-- **[Emcodes](https://emcodes.xyz)]**  → A webpage that is a reflection and description of my personality in 0s and 1s; simple, smooth and efficient. 
-- **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools.
+- **[Emcodes](https://emcodes.xyz)**  → A webpage that is a reflection and description of my personality in 0s and 1s; simple, smooth and efficient. 
 - **[QuizemeGPT](http://assign-gpt.vercel.app)** → AI-powered quiz generator that creates quizzes on any topic instantly.  
 - **[Convertly](https://stt-app-roan.vercel.app)** → Speech-to-text app that transcribes in real time and lets you export results.  
-
+<!--- - **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools. -->
 ---
 
 ### A bit of experience
-- **Frontend Engineer @ ClassroomIO** – Building open-source EdTech tools, AI grading systems, and video upload optimizations.  
+- **Software Engineer @ ClassroomIO** – Building open-source EdTech tools, AI grading systems, and video upload optimizations.  
 - **Frontend Developer @ Uniflow** – Migrated platform from React to Next.js, improving performance & SEO by 94%.  
 - **Frontend Developer @ Schulltech** – Developed an academic library-based MVP and reusable UI system, cutting dev time by 40%.  
 
