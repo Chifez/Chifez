@@ -31,7 +31,8 @@ I’m also curious about how **real-time communication** and **AI** can make the
 ### Right now
 - Working on open-source EdTech tools at **ClassroomIO**.  
 - Learning more about **AI integrations** and building better developer tools.  
-- Exploring how **real-time apps** (WebRTC, Socket.IO) can scale.  
+- Exploring how **real-time apps** (WebRTC, Socket.IO) can scale.
+- Learning Golang, and studying to become a Devops Engineer in the next 12 months. 
 
 ---
 
