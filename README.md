@@ -15,7 +15,8 @@ I’m also curious about how **real-time communication** and **AI** can make the
 ---
 
 ### Some cool things I’ve built
-- **[Emcodes](https://emcodes.xyz)**  → A webpage that is a reflection and description of my personality in 0s and 1s; simple, smooth and efficient. 
+- **[Emcodes](https://emcodes.xyz)**  → A webpage that is a reflection and description of my personality in 0s and 1s; simple, smooth and efficient.
+- **[SmartDoc](https://github.com/Chifez/smartDoc)** → My first attempt at an AI powered "google Docs" like collaborative editor with supabase real time cursor tracking.
 - **[QuizemeGPT](http://assign-gpt.vercel.app)** → AI-powered quiz generator that creates quizzes on any topic instantly.  
 - **[Convertly](https://stt-app-roan.vercel.app)** → Speech-to-text app that transcribes in real time and lets you export results.  
 <!--- - **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools. -->
