@@ -1,62 +1,92 @@
-## 👋 Hey, I’m Emmanuel  
+# Emmanuel Nwosu
+**Software Engineer**
 
-I’m a **Software engineer** who loves building clean, fast, and interactive web apps. I’ve been working with **React, Next.js, and Svelte** for 4+ years, and I enjoy turning ideas into smooth, responsive UIs that people actually enjoy using.  
+I build clean, fast, and interactive web applications with a strong focus on performance, usability, and real-time collaboration. I have 4+ years of experience working primarily with React, Next.js, and Svelte, and I enjoy turning ideas into reliable, production-ready user interfaces.
 
-I’m also curious about how **real-time communication** and **AI** can make the web more collaborative, so a lot of my projects i am currently working on mix those two worlds.  
-
----
-
-### What I use most
-- **Frontend:** React.js, Next.js, Svelte, Tailwind, Redux, Zustand  
-- **Backend & DBs:** Node.js, Express, Supabase, PostgreSQL, MongoDB, Redis  
-- **Other stuff:** Docker, Git, WebRTC, Socket.IO  
-- **Testing & QA:** Vitest, Playwright  
+A lot of my recent work explores how **real-time systems** and **AI-assisted workflows** can make the web more collaborative and expressive.
 
 ---
 
-### Some cool things
-- **[Emcodes](https://emcodes.xyz)**  → A webpage that is a reflection and description of my personality in 0s and 1s; simple, smooth and efficient.
-- **[SmartDoc](https://github.com/Chifez/smartDoc)** → My first attempt at an AI powered "google Docs" like collaborative editor with supabase real time cursor tracking.
-- **[QuizemeGPT](http://assign-gpt.vercel.app)** → AI-powered quiz generator that creates quizzes on any topic instantly.  
-- **[Convertly](https://stt-app-roan.vercel.app)** → Speech-to-text app that transcribes in real time and lets you export results.  
-<!--- - **[MeetLite(WIP)](https://meetlite.app)** → Real-time video chat app with screen sharing, smart scheduling, and in-meeting tools. -->
----
+## Core Stack
 
-### A bit of experience
-- **Software Engineer @ ClassroomIO** – Building open-source EdTech tools, AI grading systems, and video upload optimizations.  
-- **Frontend Developer @ Uniflow** – Migrated platform from React to Next.js, improving performance & SEO by 94%.  
-- **Frontend Developer @ Schulltech** – Developed an academic library-based MVP and reusable UI system, cutting dev time by 40%.  
+| Category | Technologies |
+|--------|-------------|
+| Frontend | Reactjs, Next.js, Svelte, Tailwind CSS, Redux, Zustand |
+| Backend | Node.js, Honojs, Golang, Express |
+| Databases | PostgreSQL, MongoDB, Supabase, Redis |
+| Real-time | WebRTC, Socket.IO, Livekit |
+| DevOps | Docker, Git |
+| Testing | Vitest, Playwright |
 
 ---
 
-### Right now
-- Working on open-source EdTech tools at **ClassroomIO**.  
-- Learning more about **AI integrations** and building better developer tools.  
-- Exploring how **real-time apps** (WebRTC, Socket.IO) can scale.
-- Learning Golang, and studying to become a Devops Engineer in the next 12 months. 
+## Selected Projects
+
+### Real-time & Collaborative Systems
+
+| Project | Description | Stack | Status |
+|-------|------------|-------|--------|
+| **[MeetLite](https://meetlite.app)** | Collaborative conference application for modern teams | WebRTC, Socket.IO | Live, WIP |
+| **[Neuralive](https://github.com/Chifez/aicompanion)** | Video conference app with AI meeting assistance for data refining, realtime suggestions, fact checking | GO, tanstack start, Livekit, Socket.IO | WIP |
+| **[SmartDoc](https://github.com/Chifez/smartDoc)** | Collaborative document editor inspired by Google Docs with real-time cursor tracking and AI assistance. | React, Supabase, PostgreSQL | Prototype |
+
+
+### Other Projects
+
+| Project | Description | Stack | Status |
+|-------|------------|-------|--------|
+| **[Emcodes](https://emcodes.xyz)** | Personal portfolio expressing identity and ideas through clean, intentional code. | Next.js, Tailwind CSS | Live |
+| **[Mainstack](https://mainstack-assement.vercel.app)** | An assesment UI turned into a financial ledger system flow application for learning purposes | Nextjs, postrges | Live |
+| **[Convertly](https://stt-app-roan.vercel.app)** | Real-time speech-to-text application with live transcription and exportable results. | React, Web Speech API | Live |
+| **[QuizemeGPT](http://assign-gpt.vercel.app)** | AI-powered quiz generator that creates quizzes instantly on any topic. | React, OpenAI API | Live |
 
 ---
 
-### 📫  How to reach me
-- **Email:** [nwosuifeanyiemmanuel01@gmail.com](mailto:nwosuifeanyiemmanuel01@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ifeanyi-emmanuel](https://www.linkedin.com/in/nwosuifeanyiemmanuel)
-- **Twitter** [@chifez4u](https://www.twitter.com/chifez4u) 
-- **Portfolio:** [My Portfolio](https://emcodes.xyz)
-- **Hackkerank:** [Hackerrank](https://www.hackerrank.com/profile/chifez1)  
+## Professional Experience
+
+| Role | Company | Highlights |
+|----|--------|-----------|
+| Software Engineer | ClassroomIO | Building open-source EdTech tools, AI-assisted grading systems, and optimizing large-scale video upload pipelines. |
+| Frontend Developer | Uniflow | Led migration from React to Next.js, improving SEO and performance by ~94%. |
+| Frontend Developer | Schulltech | Built an academic library MVP and reusable UI system, reducing development time by ~40%. |
 
 ---
 
-⭐️ *If you like my work, consider following me here on GitHub or checking out one of my projects above!*  
 
+## System Design & Engineering Reading
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chifez&theme=blue-green)](https://github.com/Chifez/github-readme-stats)
+| Book | Focus |
+|----|------|
+| Designing Data-Intensive Applications – Martin Kleppmann | Data systems, scalability, consistency, and reliability |
+| System Design Interview – Alex Xu | Distributed systems patterns and real-world architectures |
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chifez&theme=blue-green)](https://github.com/DenverCoder1/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Chifez&theme=blue-green)](https://github.com/DenverCoder1/github-readme-stats)
+---
 
-![stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Chifez}1212%2Fhit-counter)
-<!-- ![commit](https://custom-icon-badges.demolab.com/github/last-commit/Chifez/custom-icon-badges?logo=history&logoColor=white) -->
-<!---
-Chifez/Chifez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Current Focus
+
+- Building open-source EdTech tools at ClassroomIO  
+- Designing AI-assisted developer and collaboration tools  
+- Scaling real-time applications with WebRTC and Socket.IO  
+- Learning Go and working toward DevOps proficiency within the next 12 months  
+
+---
+
+## Contact
+
+| Platform | Link |
+|--------|------|
+| Email | nwosuifeanyiemmanuel01@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/nwosuifeanyiemmanuel |
+| Twitter | https://twitter.com/chifez4u |
+| Portfolio | https://emcodes.xyz |
+| HackerRank | https://www.hackerrank.com/profile/chifez1 |
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chifez&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chifez&theme=blue-green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chifez&theme=blue-green)
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChifez)
