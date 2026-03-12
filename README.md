@@ -14,7 +14,7 @@ A lot of my recent work explores how **real-time systems** and **AI-assisted wor
 | Frontend | Reactjs, Next.js, Svelte, Tailwind CSS, Redux, Zustand |
 | Backend | Node.js, Honojs, Golang, Express |
 | Databases | PostgreSQL, MongoDB, Supabase, Redis |
-| Real-time | WebRTC, Socket.IO, Livekit |
+| Real-time | WebRTC, Socket.IO, Livekit, Mediasoup |
 | DevOps | Docker, Git |
 | Testing | Vitest, Playwright |
 
@@ -26,8 +26,9 @@ A lot of my recent work explores how **real-time systems** and **AI-assisted wor
 
 | Project | Description | Stack | Status |
 |-------|------------|-------|--------|
-| **[MeetLite](https://meetlite.app)** | Collaborative conference application for modern teams | WebRTC, Socket.IO | Live, WIP |
-| **[Neuralive](https://github.com/Chifez/aicompanion)** | Video conference app with AI meeting assistance for data refining, realtime suggestions, fact checking | GO, tanstack start, Livekit, Socket.IO | WIP |
+| **[MeetLite](https://meetlite.app)** | Collaborative conference application for modern teams | MERN, Typescript, WebRTC, Socket.IO, OpenAI API | Live, WIP |
+| **[Neuralive](https://github.com/Chifez/aicompanion)** | Video conference app with AI meeting assistance for data refining, realtime suggestions, fact checking | GO, Tanstack-start, Livekit, Socket.IO, OpenAI API | WIP |
+| **[TaxBracket](https://github.com/Chifez/Taxbracket)** | RAG(Retrieval, Augmented, Generative) driven solution for tax and financial analysis. | Tanstack-start, Typescript, PostgreSQL(pg-vector),OpenAI API | Live |
 | **[SmartDoc](https://github.com/Chifez/smartDoc)** | Collaborative document editor inspired by Google Docs with real-time cursor tracking and AI assistance. | React, Supabase, PostgreSQL | Prototype |
 
 
