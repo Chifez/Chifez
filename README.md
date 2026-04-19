@@ -36,8 +36,9 @@ A lot of my recent work explores how **real-time systems** and **AI-assisted wor
 
 | Project | Description | Stack | Status |
 |-------|------------|-------|--------|
-| **[Emcodes](https://emcodes.xyz)** | Personal portfolio expressing identity and ideas through clean, intentional code. | Next.js, Tailwind CSS | Live |
-| **[Mainstack](https://mainstack-assement.vercel.app)** | An assesment UI turned into a financial ledger system flow application for learning purposes | Nextjs, postrges | Live |
+| **[MotionSlides](https://github.com/Chifez/motion-slides)** | High-Fidelity Presentation & Motion Design Editor |  Tanstack start, TypeScript, Framer Motion,  Recharts, Shiki | WIP |
+| **[Emcodes](https://emcodes.xyz)** | Personal portfolio expressing identity and ideas through clean, intentional code. | Next.js,Typescript, Framer Motion, Spotify API | Live |
+| **[Mainstack](https://mainstack-assement.vercel.app)** | An assesment UI turned into a financial ledger system flow application for learning purposes | Nextjs, Typescript, Postrges, React-flow | Live |
 | **[Convertly](https://stt-app-roan.vercel.app)** | Real-time speech-to-text application with live transcription and exportable results. | React, Web Speech API | Live |
 | **[QuizemeGPT](http://assign-gpt.vercel.app)** | AI-powered quiz generator that creates quizzes instantly on any topic. | React, OpenAI API | Live |
 
